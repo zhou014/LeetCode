@@ -1,1 +1,1 @@
-print('Leetcode---000000')
+print('Leetcode---000')
